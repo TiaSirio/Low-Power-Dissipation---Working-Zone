@@ -9,6 +9,6 @@ There are two possible encodings:
 - If the address to be transmitted does not belong to any Working Zone, it is transmitted unchanged, with an additional bit set to 0 inserted previously to the address itself by a chaining operation.
 - If the address to be transmitted belongs to a Working Zone, the additional bit is set to 1 while the address bits are represented as
 following:
-- The first three represent the number of the Working Zone to which the address belongs.
-- The last four bits indicate the offset from the base address of the
+1. The first three represent the number of the Working Zone to which the address belongs.
+2. The last four bits indicate the offset from the base address of the
 Working Zone (encoded in one-hot2).
