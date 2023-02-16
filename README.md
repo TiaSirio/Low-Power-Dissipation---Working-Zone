@@ -7,8 +7,6 @@ The specification of the 2019 "Logical Networks Project" Final Test is inspired 
 This method is for the Address Bus: it is used to encode differently different way the value of a transmitted address (7 bits) when it is between certain ranges of values, called working-zone1 (WZ).
 There are two possible encodings:
 - If the address to be transmitted does not belong to any Working Zone, it is transmitted unchanged, with an additional bit set to 0 inserted previously to the address itself by a chaining operation.
-- If the address to be transmitted belongs to a Working Zone, the additional bit is set to 1 while the address bits are represented as
-following:
-1. The first three represent the number of the Working Zone to which the address belongs.
-2. The last four bits indicate the offset from the base address of the
-Working Zone (encoded in one-hot2).
+- If the address to be transmitted belongs to a Working Zone, the additional bit is set to 1 while the address bits are represented as following:
+  1. The first three represent the number of the Working Zone to which the address belongs.
+  2. The last four bits indicate the offset from the base address of theWorking Zone (encoded in one-hot2).
