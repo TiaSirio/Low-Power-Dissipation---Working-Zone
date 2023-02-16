@@ -10,3 +10,7 @@ There are two possible encodings:
 - If the address to be transmitted belongs to a Working Zone, the additional bit is set to 1 while the address bits are represented as following:
   1. The first three represent the number of the Working Zone to which the address belongs.
   2. The last four bits indicate the offset from the base address of theWorking Zone (encoded in one-hot2).
+
+## Technology
+
+This project is written in VHDL, a hardware description language used to model and simulate digital circuits.
