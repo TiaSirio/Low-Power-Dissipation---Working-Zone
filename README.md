@@ -1,6 +1,6 @@
 # Low Power Dissipation - Working Zone 🚀
 
-## Overview 📜
+## Overview 🌐
 
 The specification of the 2019 "Logical Networks Project" Final Test is inspired by the low power dissipation coding method called "Working Zone." This method is applied to the Address Bus and is used to encode addresses differently based on certain ranges of values, known as Working Zone (WZ).
 
@@ -30,3 +30,7 @@ This is the final project of the exam "Reti Logiche" for the Computer Science an
 ## Author 👨‍🏫
 
 - Mattia Siriani
+
+## Documentation 📄
+
+For detailed information and results, refer to the [Drone-demos.pdf](Drone_demos.pdf) document.
