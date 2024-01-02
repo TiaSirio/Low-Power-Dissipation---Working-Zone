@@ -33,4 +33,4 @@ This is the final project of the exam "Reti Logiche" for the Computer Science an
 
 ## Documentation 📄
 
-For detailed information and results, refer to the [Drone-demos.pdf](Drone_demos.pdf) document.
+For detailed information and results, refer to the [10571322.pdf](10571322.pdf) document.
