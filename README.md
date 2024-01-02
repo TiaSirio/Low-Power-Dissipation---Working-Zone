@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 2. Explore the VHDL code for detailed insights.
 3. Implement or simulate the project in your VHDL environment.
 
-# University Course 📖
+## University Course 📖
 
 This is the final project of the exam "Reti Logiche" for the Computer Science and Engineering degree at Polytechnic of Milano.
 
