@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 This is the final project of the exam "Reti Logiche" for the Computer Science and Engineering degree at Polytechnic of Milano.
 
-## Author 👨‍🏫
+## Author 👨‍💻
 
 - [TiaSirio](https://www.github.com/TiaSirio)
 
