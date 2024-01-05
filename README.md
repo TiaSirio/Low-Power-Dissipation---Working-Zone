@@ -29,7 +29,7 @@ This is the final project of the exam "Reti Logiche" for the Computer Science an
 
 ## Author 👨‍🏫
 
-- Mattia Siriani
+- [TiaSirio](https://www.github.com/TiaSirio)
 
 ## Documentation 📄
 
